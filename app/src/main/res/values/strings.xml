@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="select_tag_prompt">Выберите тег</string>
+    <string name="add_new_tag">Добавить новый тег</string>
+</resources>
